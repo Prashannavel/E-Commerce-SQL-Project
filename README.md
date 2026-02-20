@@ -2,15 +2,24 @@
 Complete SQL Server E-Commerce Data Analysis Project with KPIs, Triggers, Stored Procedures, Transactions and Error Handling.
 
 E-Commerce-SQL-Project
-│
-├── 1_database_schema.sql
+
+
+├── 1_data_schema.sql
+
 ├── 2_kpi_queries.sql
-├── 3_constraints.sql
-├── 4_triggers.sql
-├── 5_stored_procedures.sql
-├── 6_index_optimization.sql
+
+├── 3_triggers.sql
+
+├── 4_stored_procedures.sql
+
+├── 5_Product_Customer_analytics.sql
+
+├── 6_index_optimization.md
+
 ├── BUSINESS_PROBLEM.md
+
 ├── DATA_FLOW.md
+
 └── README.md
 
 # Project Overview
