@@ -50,11 +50,7 @@ GitHub
 ## Project Screenshots
 
 ### ER Diagram
-
-
 This diagram represents the structure of the E-Commerce database including primary key and relationships.
-
-
 ![ER Diagram](Er_diagram.png)
 
 ### KPI - Total Revenue
