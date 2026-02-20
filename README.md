@@ -56,7 +56,7 @@ GitHub
 ![KPI](KPI_working.png)
 
 ### Stored Procedure Execution
-![Stored Procedure](Storedprocedure_Trigger_working)
+![Stored Procedure](Storedprocedure_Trigger_working.png)
 
 ### Table Structure
 ![Table Structure](Table_structure.png)
