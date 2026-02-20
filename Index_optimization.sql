@@ -1,4 +1,4 @@
--- Index for faster country aggregation
+--- Index for faster country aggregation
 CREATE INDEX idx_country
 ON ecomm (Country);
 
