@@ -8,9 +8,9 @@ E-Commerce-SQL-Project
 
 ├── 2_kpi_queries.sql
 
-├── 3_triggers.sql
+├── 3_triggers_storedprocedure.sql
 
-├── 4_stored_procedures.sql
+├── 4_RFM.sql
 
 ├── 5_Product_Customer_analytics.sql
 
